@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "Personal responsive portfolio using React, Vite, and Tailwind CSS.",
+    "type": "Web Development",
+    "year": 2025
+  },
+  {
+    "id": 2,
+    "title": "AI Quote Generator",
+    "description": "Fetches random inspirational quotes using ZenQuotes API.",
+    "type": "Frontend",
+    "year": 2025
+  },
+  {
+    "id": 3,
+    "title": "Dark Mode Dashboard",
+    "description": "Interactive dashboard with light/dark theme toggle.",
+    "type": "UI/UX",
+    "year": 2024
+  }
+]

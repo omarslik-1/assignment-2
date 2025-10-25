@@ -1,0 +1,11 @@
+# Technical Documentation
+- React 18 + Vite setup.
+- Persisted state via localStorage (theme, reading, username, avatar, userProjects).
+- Projects data model:
+  - **Seed** from `/projects.json`
+  - **User items** from `localStorage:userProjects`
+  - Merge then filter/search/sort in memory
+- Add Project form creates items with id prefix `u-`, allows delete for user items only.
+- Error/Loading/Empty states shown. Retry reloads page for seed fetch.
+- Accessibility: focus rings, ARIA roles/labels, color‑scheme aware.
+- AI usage documented in `docs/ai-usage-report.md`.

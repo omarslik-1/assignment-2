@@ -1,0 +1,46 @@
+[
+  {
+    "id": "s-1",
+    "title": "Vision 2030 Dashboard",
+    "type": "web",
+    "year": 2025,
+    "tags": [
+      "dashboard",
+      "charts"
+    ],
+    "desc": "Interactive dashboard for Saudi Vision 2030 KPIs."
+  },
+  {
+    "id": "s-2",
+    "title": "Smart Portfolio",
+    "type": "web",
+    "year": 2024,
+    "tags": [
+      "ai",
+      "portfolio"
+    ],
+    "desc": "AI\u2011assisted personal portfolio that drafts content."
+  },
+  {
+    "id": "s-3",
+    "title": "Green Finance Tracker",
+    "type": "data",
+    "year": 2023,
+    "tags": [
+      "esg",
+      "sustainability"
+    ],
+    "desc": "Track ESG indicators and sustainability KPIs."
+  },
+  {
+    "id": "s-4",
+    "title": "Tadawul Analyzer",
+    "type": "finance",
+    "year": 2022,
+    "tags": [
+      "stocks",
+      "api"
+    ],
+    "desc": "Analyze Saudi market stocks with basic API data."
+  }
+]
